@@ -1,8 +1,13 @@
-# Recognitions
+# Recognitions -> Publications
 - award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+  organization: Variational potential-flow water-wave modelling 
+  year: PhD research
+  summary: <ul class="resume-item-list"><li>Junho Choi, Anna Kalogirou, Yang Lu, Onno Bokhove, and Mark A. Kelmanson.
+                A Study of Extreme Water Waves Using a Hierarchy of Models Based on Potential-Flow Theory. <i>Water Waves</i>, 2024.
+                (<a href="https://doi.org/10.1007/s42286-024-00084-4">link</a>)</li>
+                <li>Floriane Gidel, Yang Lu, Onno Bokhove, and Mark A. Kelmanson.
+                Variational and numerical modelling strategies for cost-effective simulations of driven free-surface waves.
+                (<a href="https://doi.org/10.31223/X5WS8F">EarthArXiv</a>)</li>
 
 - award: Most Likely To Succeed
   organization: Springfield High School
