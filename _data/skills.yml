@@ -1,5 +1,5 @@
 # Skills -> EAGRE Events
-# Organizational leadership
+
 - skill: Outreach Activities
   description: <ul class="resume-item-list"><li>Wajiha and Yang visited <a href="https://mathscity.co.uk/">MathsCity</a> in Trinity Leeds, 
                 the UK’s first National Mathematics Discovery Centre, to deliver the first outreach activity on 17 November 2021. 
@@ -8,10 +8,12 @@
                 at the <a href="https://www.stem.leeds.ac.uk/mathematics/masterclasses/">Leeds Maths Masterclasses</a> under the auspices of 
                 the Royal Institution. The topic was "Maths for Green Power&#58; Windmills in Sea Waves".</li>
                 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Social Media
+  description: A <a href="https://twitter.com/EagreH2020" title="EAGRE-H2020">Twitter account</a> and 
+               a Sina <a href="https://weibo.com/Eagre/" title="EAGRE-Horizon2020">Weibo account</a> 
+               have been created, and the project updates will be posted on these social media platforms.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: GitHub Organisation
+  description: A <a href="https://github.com/EAGRE-water-wave-impact-modelling" title="Eagre">Github organization</a> has been created for this
+               project, which serves as a platform to share our computational models for different sub-projects, to collaborate and communicate 
+               with group members as well as external users. 
