@@ -23,10 +23,10 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hi, my name is Yang Lu Starting in November 2020, I became a PhD candidate 
-                      studying in the <a href='https://eps.leeds.ac.uk/maths'>School of Mathematics</a> at University 
+resume_header_intro: "<p>Hi, my name is Yang Lu. Starting in November 2020, I became a PhD candidate studying in 
+                      the <a href='https://eps.leeds.ac.uk/maths'>School of Mathematics</a> at University 
                       of Leeds. Funded under the H2020 Marie Curie European Industrial Doctorate project 
-                      'Eagre/Aegir: high-seas wave-impact modelling', I have worked as a Marie Curie Early-Stage 
+                      <i>Eagre/Aegir: high-seas wave-impact modelling</i>, I have worked as a Marie Curie Early-Stage 
                       Researcher to participate in the subproject 'ExtremeWaves' for three years, which 
                       focuses on better modelling of nonlinear water wave. Not only mathematical 
                       modelling and numerical simulations via 'Firedrake' are involved, validation against 
