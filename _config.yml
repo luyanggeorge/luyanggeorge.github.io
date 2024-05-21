@@ -27,10 +27,10 @@ resume_header_intro: "<p>Hi, my name is Yang Lu. Starting in November 2020, I be
                       the <a href='https://eps.leeds.ac.uk/maths'>School of Mathematics</a> at University 
                       of Leeds. Funded under the H2020 Marie Curie European Industrial Doctorate project 
                       <i>Eagre/Aegir: high-seas wave-impact modelling</i>, I have worked as a Marie Curie Early-Stage 
-                      Researcher to participate in the subproject 'ExtremeWaves' for three years, which 
-                      focuses on better modelling of nonlinear water wave. Not only mathematical 
-                      modelling and numerical simulations via 'Firedrake' are involved, validation against 
-                      experimental measurements carried out at Maritime Research Institute Netherlands (MARIN)
+                      Researcher to participate in the subproject <i>ExtremeWaves</i> for three years, which 
+                      focuses on better modelling of nonlinear water waves. Not only mathematical 
+                      modelling and numerical simulations via <a href='https://www.firedrakeproject.org/'>Firedrake</a> are involved, validation against 
+                      experimental measurements carried out at <a href='https://www.marin.nl/en'>Maritime Research Institute Netherlands (MARIN)</a>
                       is also performed.</p>"
 #resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
 
