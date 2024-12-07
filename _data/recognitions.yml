@@ -4,12 +4,10 @@
   year: PhD research
   summary: <ul class="resume-item-list"><li>Junho Choi, Anna Kalogirou, Yang Lu, Onno Bokhove, and Mark A. Kelmanson.
                 A Study of Extreme Water Waves Using a Hierarchy of Models Based on Potential-Flow Theory. <i>Water Waves</i>, 2024.
-                (<a href="https://doi.org/10.1007/s42286-024-00084-4">link</a>)</li>
-                [<a href="https://github.com/luyanggeorge/PFE_solitons">GitHub</a>]</li>
+                (<a href="https://doi.org/10.1007/s42286-024-00084-4">link</a>)</li> [<a href="https://github.com/luyanggeorge/PFE_solitons">GitHub</a>]</li>
                 <li>Floriane Gidel, Yang Lu, Onno Bokhove, and Mark A. Kelmanson.
                 Variational and numerical modelling strategies for cost-effective simulations of driven free-surface waves.
-                (<a href="https://doi.org/10.31223/X5WS8F">EarthArXiv</a>)</li>
-                [<a href="https://github.com/luyanggeorge/3D_tank_VP">GitHub</a>]</li>
+                (<a href="https://doi.org/10.31223/X5WS8F">EarthArXiv</a>)</li> [<a href="https://github.com/luyanggeorge/3D_tank_VP">GitHub</a>]</li>
 
 - award: Most Likely To Succeed
   organization: Lattice Boltzmann colour-gradient model for ternary fluid flows
